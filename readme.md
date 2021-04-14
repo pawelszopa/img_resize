@@ -14,3 +14,5 @@ Queue - trzymamy dane w kolejce i thread moze wziac z konca kolejki
     - join() - blokuje kolejke 
 
 poison pill zatrowamy 
+
+paremetr inicialized do processow nie wymaga  pickle data

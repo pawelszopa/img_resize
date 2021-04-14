@@ -35,4 +35,5 @@ def test_thumbnail_maker():
     tn_maker = ThumbnailMakerService()
     tn_maker.make_thumbnails(IMG_URLS)
 
-test_thumbnail_maker()
+if __name__ == '__main__':
+    test_thumbnail_maker()

@@ -1,256 +1,558 @@
-[MainThread, 2021-04-14 21:03:31,937, INFO] START make_thumbnails
-[MainThread, 2021-04-14 21:03:31,939, INFO] beginning image resizing
-[MainThread, 2021-04-14 21:03:32,712, INFO] resizing image pexels-photo-48603.jpeg
-[MainThread, 2021-04-14 21:03:32,789, INFO] resizing image pexels-photo-135130.jpeg
-[MainThread, 2021-04-14 21:03:32,865, INFO] resizing image pexels-photo-134392.jpeg
-[MainThread, 2021-04-14 21:03:32,969, INFO] resizing image pexels-photo-167300.jpeg
-[MainThread, 2021-04-14 21:03:33,464, INFO] resizing image pexels-photo-167921.jpeg
-[MainThread, 2021-04-14 21:03:33,597, INFO] resizing image pexels-photo-185934.jpeg
-[MainThread, 2021-04-14 21:03:33,639, INFO] resizing image pexels-photo-192454.jpeg
-[MainThread, 2021-04-14 21:03:33,762, INFO] resizing image pexels-photo-173125.jpeg
-[MainThread, 2021-04-14 21:03:34,297, INFO] resizing image pexels-photo-193038.jpeg
-[MainThread, 2021-04-14 21:03:34,425, INFO] resizing image pexels-photo-207962.jpeg
-[MainThread, 2021-04-14 21:03:34,442, INFO] resizing image pexels-photo-247917.jpeg
-[MainThread, 2021-04-14 21:03:34,504, INFO] resizing image pexels-photo-193043.jpeg
-[MainThread, 2021-04-14 21:03:35,001, INFO] resizing image pexels-photo-247932.jpeg
-[MainThread, 2021-04-14 21:03:35,244, INFO] resizing image pexels-photo-302899.jpeg
-[MainThread, 2021-04-14 21:03:35,387, INFO] resizing image pexels-photo-265186.jpeg
-[MainThread, 2021-04-14 21:03:35,473, INFO] resizing image pexels-photo-317156.jpeg
-[MainThread, 2021-04-14 21:03:35,961, INFO] resizing image pexels-photo-317383.jpeg
-[MainThread, 2021-04-14 21:03:36,104, INFO] resizing image pexels-photo-320007.jpeg
-[MainThread, 2021-04-14 21:03:36,203, INFO] resizing image pexels-photo-322207.jpeg
-[MainThread, 2021-04-14 21:03:36,525, INFO] resizing image pexels-photo-323503.jpeg
-[MainThread, 2021-04-14 21:03:36,859, INFO] resizing image pexels-photo-324655.jpeg
-[MainThread, 2021-04-14 21:03:36,929, INFO] resizing image pexels-photo-324658.jpeg
-[MainThread, 2021-04-14 21:03:37,098, INFO] resizing image pexels-photo-324030.jpeg
-[MainThread, 2021-04-14 21:03:37,333, INFO] resizing image pexels-photo-325520.jpeg
-[MainThread, 2021-04-14 21:03:37,673, INFO] resizing image pexels-photo-333529.jpeg
-[MainThread, 2021-04-14 21:03:38,294, INFO] resizing image pexels-photo-341520.jpeg
-[MainThread, 2021-04-14 21:10:57,399, INFO] START make_thumbnails
-[Thread-27, 2021-04-14 21:10:57,419, INFO] beginning image resizing
-[Thread-27, 2021-04-14 21:10:58,047, INFO] resizing image pexels-photo-207962.jpeg
-[Thread-27, 2021-04-14 21:10:58,130, INFO] resizing image pexels-photo-167300.jpeg
-[Thread-27, 2021-04-14 21:10:58,245, INFO] resizing image pexels-photo-333529.jpeg
-[Thread-27, 2021-04-14 21:10:58,324, INFO] resizing image pexels-photo-302899.jpeg
-[Thread-27, 2021-04-14 21:10:58,450, INFO] resizing image pexels-photo-134392.jpeg
-[Thread-27, 2021-04-14 21:10:58,549, INFO] resizing image pexels-photo-324658.jpeg
-[Thread-27, 2021-04-14 21:10:58,658, INFO] resizing image pexels-photo-324030.jpeg
-[Thread-27, 2021-04-14 21:10:58,740, INFO] resizing image pexels-photo-322207.jpeg
-[Thread-27, 2021-04-14 21:10:58,847, INFO] resizing image pexels-photo-167921.jpeg
-[Thread-27, 2021-04-14 21:10:58,979, INFO] resizing image pexels-photo-324655.jpeg
-[Thread-27, 2021-04-14 21:10:59,044, INFO] resizing image pexels-photo-323503.jpeg
-[Thread-27, 2021-04-14 21:10:59,150, INFO] resizing image pexels-photo-325520.jpeg
-[Thread-27, 2021-04-14 21:10:59,266, INFO] resizing image pexels-photo-341520.jpeg
-[Thread-27, 2021-04-14 21:10:59,367, INFO] resizing image pexels-photo-48603.jpeg
-[Thread-27, 2021-04-14 21:10:59,422, INFO] resizing image pexels-photo-265186.jpeg
-[Thread-27, 2021-04-14 21:10:59,495, INFO] resizing image pexels-photo-317156.jpeg
-[Thread-27, 2021-04-14 21:10:59,592, INFO] resizing image pexels-photo-193043.jpeg
-[Thread-27, 2021-04-14 21:10:59,711, INFO] resizing image pexels-photo-320007.jpeg
-[Thread-27, 2021-04-14 21:10:59,776, INFO] resizing image pexels-photo-185934.jpeg
-[Thread-27, 2021-04-14 21:10:59,795, INFO] resizing image pexels-photo-192454.jpeg
-[Thread-27, 2021-04-14 21:10:59,905, INFO] resizing image pexels-photo-317383.jpeg
-[Thread-27, 2021-04-14 21:11:00,050, INFO] resizing image pexels-photo-135130.jpeg
-[Thread-27, 2021-04-14 21:11:00,129, INFO] resizing image pexels-photo-247932.jpeg
-[Thread-27, 2021-04-14 21:11:00,251, INFO] resizing image pexels-photo-193038.jpeg
-[Thread-27, 2021-04-14 21:11:00,368, INFO] resizing image pexels-photo-173125.jpeg
-[Thread-27, 2021-04-14 21:11:00,422, INFO] resizing image pexels-photo-247917.jpeg
-[Thread-27, 2021-04-14 21:11:00,483, INFO] created thumbnails in 3.0631524129985337 seconds
-[MainThread, 2021-04-14 21:11:00,483, INFO] END make_thumbnails in 3.0840019160004886 seconds
-[MainThread, 2021-04-14 21:11:50,253, INFO] START make_thumbnails
-[Thread-27, 2021-04-14 21:11:50,272, INFO] beginning image resizing
-[Thread-27, 2021-04-14 21:11:51,104, INFO] resizing image pexels-photo-207962.jpeg
-[Thread-27, 2021-04-14 21:11:51,137, INFO] resizing image pexels-photo-320007.jpeg
-[Thread-27, 2021-04-14 21:11:51,205, INFO] resizing image pexels-photo-135130.jpeg
-[Thread-27, 2021-04-14 21:11:51,280, INFO] resizing image pexels-photo-185934.jpeg
-[Thread-27, 2021-04-14 21:11:51,300, INFO] resizing image pexels-photo-247917.jpeg
-[Thread-27, 2021-04-14 21:11:51,363, INFO] resizing image pexels-photo-167300.jpeg
-[Thread-27, 2021-04-14 21:11:51,468, INFO] resizing image pexels-photo-317156.jpeg
-[Thread-27, 2021-04-14 21:11:51,566, INFO] resizing image pexels-photo-324655.jpeg
-[Thread-27, 2021-04-14 21:11:51,630, INFO] resizing image pexels-photo-173125.jpeg
-[Thread-27, 2021-04-14 21:11:51,683, INFO] resizing image pexels-photo-48603.jpeg
-[Thread-27, 2021-04-14 21:11:51,738, INFO] resizing image pexels-photo-167921.jpeg
-[Thread-27, 2021-04-14 21:11:51,871, INFO] resizing image pexels-photo-193043.jpeg
-[Thread-27, 2021-04-14 21:11:51,987, INFO] resizing image pexels-photo-134392.jpeg
-[Thread-27, 2021-04-14 21:11:52,085, INFO] resizing image pexels-photo-193038.jpeg
-[Thread-27, 2021-04-14 21:11:52,203, INFO] resizing image pexels-photo-302899.jpeg
-[Thread-27, 2021-04-14 21:11:52,333, INFO] resizing image pexels-photo-247932.jpeg
-[Thread-27, 2021-04-14 21:11:52,449, INFO] resizing image pexels-photo-325520.jpeg
-[Thread-27, 2021-04-14 21:11:52,559, INFO] resizing image pexels-photo-192454.jpeg
-[Thread-27, 2021-04-14 21:11:52,671, INFO] resizing image pexels-photo-322207.jpeg
-[Thread-27, 2021-04-14 21:11:52,786, INFO] resizing image pexels-photo-317383.jpeg
-[Thread-27, 2021-04-14 21:11:52,933, INFO] resizing image pexels-photo-324658.jpeg
-[Thread-27, 2021-04-14 21:11:53,051, INFO] resizing image pexels-photo-341520.jpeg
-[Thread-27, 2021-04-14 21:11:53,149, INFO] resizing image pexels-photo-324030.jpeg
-[Thread-27, 2021-04-14 21:11:53,232, INFO] resizing image pexels-photo-265186.jpeg
-[Thread-27, 2021-04-14 21:11:53,309, INFO] resizing image pexels-photo-333529.jpeg
-[Thread-27, 2021-04-14 21:11:53,383, INFO] resizing image pexels-photo-323503.jpeg
-[Thread-27, 2021-04-14 21:11:53,499, INFO] created thumbnails in 3.2259976980003557 seconds
-[MainThread, 2021-04-14 21:11:53,499, INFO] END make_thumbnails in 3.245979019000515 seconds
-[MainThread, 2021-04-14 21:12:45,688, INFO] START make_thumbnails
-[Thread-1, 2021-04-14 21:12:45,689, INFO] Yolo
-[Thread-2, 2021-04-14 21:12:45,691, INFO] Yolo
-[Thread-3, 2021-04-14 21:12:45,692, INFO] Yolo
-[Thread-4, 2021-04-14 21:12:45,692, INFO] Yolo
-[Thread-5, 2021-04-14 21:12:45,692, INFO] Yolo
-[Thread-6, 2021-04-14 21:12:45,693, INFO] Yolo
-[Thread-7, 2021-04-14 21:12:45,694, INFO] Yolo
-[Thread-8, 2021-04-14 21:12:45,697, INFO] Yolo
-[Thread-9, 2021-04-14 21:12:45,698, INFO] Yolo
-[Thread-10, 2021-04-14 21:12:45,699, INFO] Yolo
-[Thread-11, 2021-04-14 21:12:45,700, INFO] Yolo
-[Thread-12, 2021-04-14 21:12:45,700, INFO] Yolo
-[Thread-13, 2021-04-14 21:12:45,702, INFO] Yolo
-[Thread-14, 2021-04-14 21:12:45,702, INFO] Yolo
-[Thread-15, 2021-04-14 21:12:45,703, INFO] Yolo
-[Thread-16, 2021-04-14 21:12:45,705, INFO] Yolo
-[Thread-17, 2021-04-14 21:12:45,706, INFO] Yolo
-[Thread-18, 2021-04-14 21:12:45,707, INFO] Yolo
-[Thread-19, 2021-04-14 21:12:45,707, INFO] Yolo
-[Thread-20, 2021-04-14 21:12:45,708, INFO] Yolo
-[Thread-21, 2021-04-14 21:12:45,709, INFO] Yolo
-[Thread-22, 2021-04-14 21:12:45,710, INFO] Yolo
-[Thread-23, 2021-04-14 21:12:45,710, INFO] Yolo
-[Thread-24, 2021-04-14 21:12:45,711, INFO] Yolo
-[Thread-25, 2021-04-14 21:12:45,712, INFO] Yolo
-[Thread-26, 2021-04-14 21:12:45,713, INFO] Yolo
-[Thread-27, 2021-04-14 21:12:45,714, INFO] beginning image resizing
-[Thread-27, 2021-04-14 21:12:46,337, INFO] resizing image pexels-photo-185934.jpeg
-[Thread-27, 2021-04-14 21:12:46,375, INFO] resizing image pexels-photo-173125.jpeg
-[Thread-27, 2021-04-14 21:12:46,430, INFO] resizing image pexels-photo-317156.jpeg
-[Thread-27, 2021-04-14 21:12:46,527, INFO] resizing image pexels-photo-135130.jpeg
-[Thread-27, 2021-04-14 21:12:46,603, INFO] resizing image pexels-photo-302899.jpeg
-[Thread-27, 2021-04-14 21:12:46,728, INFO] resizing image pexels-photo-48603.jpeg
-[Thread-27, 2021-04-14 21:12:46,784, INFO] resizing image pexels-photo-333529.jpeg
-[Thread-27, 2021-04-14 21:12:46,858, INFO] resizing image pexels-photo-192454.jpeg
-[Thread-27, 2021-04-14 21:12:46,972, INFO] resizing image pexels-photo-320007.jpeg
-[Thread-27, 2021-04-14 21:12:47,039, INFO] resizing image pexels-photo-134392.jpeg
-[Thread-27, 2021-04-14 21:12:47,137, INFO] resizing image pexels-photo-323503.jpeg
-[Thread-27, 2021-04-14 21:12:47,240, INFO] resizing image pexels-photo-247917.jpeg
-[Thread-27, 2021-04-14 21:12:47,301, INFO] resizing image pexels-photo-167921.jpeg
-[Thread-27, 2021-04-14 21:12:47,425, INFO] resizing image pexels-photo-341520.jpeg
-[Thread-27, 2021-04-14 21:12:47,523, INFO] resizing image pexels-photo-193038.jpeg
-[Thread-27, 2021-04-14 21:12:47,642, INFO] resizing image pexels-photo-247932.jpeg
-[Thread-27, 2021-04-14 21:12:47,754, INFO] resizing image pexels-photo-207962.jpeg
-[Thread-27, 2021-04-14 21:12:47,770, INFO] resizing image pexels-photo-324030.jpeg
-[Thread-27, 2021-04-14 21:12:47,852, INFO] resizing image pexels-photo-317383.jpeg
-[Thread-27, 2021-04-14 21:12:47,990, INFO] resizing image pexels-photo-325520.jpeg
-[Thread-27, 2021-04-14 21:12:48,099, INFO] resizing image pexels-photo-324655.jpeg
-[Thread-27, 2021-04-14 21:12:48,162, INFO] resizing image pexels-photo-324658.jpeg
-[Thread-27, 2021-04-14 21:12:48,266, INFO] resizing image pexels-photo-322207.jpeg
-[Thread-27, 2021-04-14 21:12:48,373, INFO] resizing image pexels-photo-265186.jpeg
-[Thread-27, 2021-04-14 21:12:48,445, INFO] resizing image pexels-photo-193043.jpeg
-[Thread-27, 2021-04-14 21:12:49,729, INFO] resizing image pexels-photo-167300.jpeg
-[Thread-27, 2021-04-14 21:12:49,830, INFO] created thumbnails in 4.113983338000253 seconds
-[MainThread, 2021-04-14 21:12:49,831, INFO] END make_thumbnails in 4.142187250999996 seconds
-[MainThread, 2021-04-14 21:13:05,151, INFO] START make_thumbnails
-[Thread-1, 2021-04-14 21:13:05,152, INFO] Yolo
-[Thread-2, 2021-04-14 21:13:05,152, INFO] Yolo
-[Thread-3, 2021-04-14 21:13:05,154, INFO] Yolo
-[Thread-4, 2021-04-14 21:13:05,155, INFO] Yolo
-[Thread-5, 2021-04-14 21:13:05,155, INFO] Yolo
-[Thread-6, 2021-04-14 21:13:05,156, INFO] Yolo
-[Thread-7, 2021-04-14 21:13:05,160, INFO] Yolo
-[Thread-8, 2021-04-14 21:13:05,161, INFO] Yolo
-[Thread-9, 2021-04-14 21:13:05,162, INFO] Yolo
-[Thread-10, 2021-04-14 21:13:05,163, INFO] Yolo
-[Thread-11, 2021-04-14 21:13:05,164, INFO] Yolo
-[Thread-12, 2021-04-14 21:13:05,165, INFO] Yolo
-[Thread-13, 2021-04-14 21:13:05,165, INFO] beginning image resizing
-[Thread-1, 2021-04-14 21:13:05,781, INFO] Yolo
-[Thread-13, 2021-04-14 21:13:05,781, INFO] resizing image pexels-photo-48603.jpeg
-[Thread-3, 2021-04-14 21:13:05,854, INFO] Yolo
-[Thread-13, 2021-04-14 21:13:05,856, INFO] resizing image pexels-photo-135130.jpeg
-[Thread-12, 2021-04-14 21:13:05,858, INFO] Yolo
-[Thread-6, 2021-04-14 21:13:05,867, INFO] Yolo
-[Thread-5, 2021-04-14 21:13:05,911, INFO] Yolo
-[Thread-13, 2021-04-14 21:13:05,937, INFO] resizing image pexels-photo-247917.jpeg
-[Thread-11, 2021-04-14 21:13:05,983, INFO] Yolo
-[Thread-13, 2021-04-14 21:13:06,007, INFO] resizing image pexels-photo-173125.jpeg
-[Thread-10, 2021-04-14 21:13:06,027, INFO] Yolo
-[Thread-13, 2021-04-14 21:13:06,067, INFO] resizing image pexels-photo-167921.jpeg
-[Thread-7, 2021-04-14 21:13:06,098, INFO] Yolo
-[Thread-2, 2021-04-14 21:13:06,099, INFO] Yolo
-[Thread-4, 2021-04-14 21:13:06,108, INFO] Yolo
-[Thread-8, 2021-04-14 21:13:06,179, INFO] Yolo
-[Thread-13, 2021-04-14 21:13:06,203, INFO] resizing image pexels-photo-207962.jpeg
-[Thread-13, 2021-04-14 21:13:06,219, INFO] resizing image pexels-photo-193043.jpeg
-[Thread-13, 2021-04-14 21:13:06,333, INFO] resizing image pexels-photo-185934.jpeg
-[Thread-13, 2021-04-14 21:13:06,351, INFO] resizing image pexels-photo-134392.jpeg
-[Thread-13, 2021-04-14 21:13:06,448, INFO] resizing image pexels-photo-167300.jpeg
-[Thread-9, 2021-04-14 21:13:06,490, INFO] Yolo
-[Thread-12, 2021-04-14 21:13:06,522, INFO] Yolo
-[Thread-13, 2021-04-14 21:13:06,545, INFO] resizing image pexels-photo-192454.jpeg
-[Thread-11, 2021-04-14 21:13:06,601, INFO] Yolo
-[Thread-13, 2021-04-14 21:13:06,666, INFO] resizing image pexels-photo-193038.jpeg
-[Thread-13, 2021-04-14 21:13:06,781, INFO] resizing image pexels-photo-302899.jpeg
-[Thread-13, 2021-04-14 21:13:06,913, INFO] resizing image pexels-photo-320007.jpeg
-[Thread-13, 2021-04-14 21:13:06,982, INFO] resizing image pexels-photo-247932.jpeg
-[Thread-13, 2021-04-14 21:13:07,096, INFO] resizing image pexels-photo-317156.jpeg
-[Thread-13, 2021-04-14 21:13:07,200, INFO] resizing image pexels-photo-324655.jpeg
-[Thread-13, 2021-04-14 21:13:07,264, INFO] resizing image pexels-photo-324030.jpeg
-[Thread-13, 2021-04-14 21:13:07,349, INFO] resizing image pexels-photo-317383.jpeg
-[Thread-13, 2021-04-14 21:13:07,494, INFO] resizing image pexels-photo-265186.jpeg
-[Thread-13, 2021-04-14 21:13:07,571, INFO] resizing image pexels-photo-323503.jpeg
-[Thread-13, 2021-04-14 21:13:07,679, INFO] resizing image pexels-photo-333529.jpeg
-[Thread-13, 2021-04-14 21:13:07,754, INFO] resizing image pexels-photo-322207.jpeg
-[Thread-13, 2021-04-14 21:13:07,864, INFO] resizing image pexels-photo-324658.jpeg
-[Thread-13, 2021-04-14 21:13:07,972, INFO] resizing image pexels-photo-325520.jpeg
-[Thread-13, 2021-04-14 21:13:08,085, INFO] resizing image pexels-photo-341520.jpeg
-[Thread-13, 2021-04-14 21:13:08,188, INFO] created thumbnails in 3.022258225000769 seconds
-[MainThread, 2021-04-14 21:13:08,189, INFO] END make_thumbnails in 3.0373724669989315 seconds
-[MainThread, 2021-04-14 21:16:33,687, INFO] START make_thumbnails
-[Thread-1, 2021-04-14 21:16:33,687, INFO] Yolo
-[Thread-2, 2021-04-14 21:16:33,691, INFO] Yolo
-[Thread-3, 2021-04-14 21:16:33,691, INFO] Yolo
-[Thread-4, 2021-04-14 21:16:33,692, INFO] Yolo
-[Thread-5, 2021-04-14 21:16:33,692, INFO] Yolo
-[Thread-6, 2021-04-14 21:16:33,693, INFO] Yolo
-[Thread-7, 2021-04-14 21:16:33,697, INFO] Yolo
-[Thread-8, 2021-04-14 21:16:33,698, INFO] Yolo
-[Thread-9, 2021-04-14 21:16:33,699, INFO] Yolo
-[Thread-10, 2021-04-14 21:16:33,700, INFO] Yolo
-[Thread-11, 2021-04-14 21:16:33,701, INFO] Yolo
-[Thread-12, 2021-04-14 21:16:33,701, INFO] Yolo
-[Thread-13, 2021-04-14 21:16:33,702, INFO] Yolo
-[Thread-14, 2021-04-14 21:16:33,703, INFO] Yolo
-[Thread-15, 2021-04-14 21:16:33,704, INFO] Yolo
-[Thread-16, 2021-04-14 21:16:33,704, INFO] Yolo
-[Thread-17, 2021-04-14 21:16:33,705, INFO] Yolo
-[Thread-18, 2021-04-14 21:16:33,705, INFO] Yolo
-[Thread-19, 2021-04-14 21:16:33,706, INFO] Yolo
-[Thread-20, 2021-04-14 21:16:33,707, INFO] Yolo
-[Thread-21, 2021-04-14 21:16:33,707, INFO] Yolo
-[Thread-22, 2021-04-14 21:16:33,708, INFO] Yolo
-[Thread-23, 2021-04-14 21:16:33,708, INFO] Yolo
-[Thread-24, 2021-04-14 21:16:33,709, INFO] Yolo
-[Thread-25, 2021-04-14 21:16:33,710, INFO] Yolo
-[Thread-26, 2021-04-14 21:16:33,710, INFO] Yolo
-[Thread-28, 2021-04-14 21:16:33,711, INFO] beginning image resizing
-[Thread-28, 2021-04-14 21:16:34,319, INFO] resizing image pexels-photo-185934.jpeg
-[Thread-28, 2021-04-14 21:16:34,365, INFO] resizing image pexels-photo-333529.jpeg
-[Thread-28, 2021-04-14 21:16:34,450, INFO] resizing image pexels-photo-320007.jpeg
-[Thread-28, 2021-04-14 21:16:34,516, INFO] resizing image pexels-photo-207962.jpeg
-[Thread-28, 2021-04-14 21:16:34,532, INFO] resizing image pexels-photo-173125.jpeg
-[Thread-28, 2021-04-14 21:16:34,590, INFO] resizing image pexels-photo-265186.jpeg
-[Thread-28, 2021-04-14 21:16:34,663, INFO] resizing image pexels-photo-341520.jpeg
-[Thread-28, 2021-04-14 21:16:34,764, INFO] resizing image pexels-photo-167300.jpeg
-[Thread-28, 2021-04-14 21:16:34,860, INFO] resizing image pexels-photo-324655.jpeg
-[Thread-28, 2021-04-14 21:16:34,927, INFO] resizing image pexels-photo-247917.jpeg
-[Thread-28, 2021-04-14 21:16:34,997, INFO] resizing image pexels-photo-324030.jpeg
-[Thread-28, 2021-04-14 21:16:35,080, INFO] resizing image pexels-photo-193038.jpeg
-[Thread-28, 2021-04-14 21:16:35,196, INFO] resizing image pexels-photo-322207.jpeg
-[Thread-28, 2021-04-14 21:16:35,304, INFO] resizing image pexels-photo-167921.jpeg
-[Thread-28, 2021-04-14 21:16:35,432, INFO] resizing image pexels-photo-317156.jpeg
-[Thread-28, 2021-04-14 21:16:35,535, INFO] resizing image pexels-photo-302899.jpeg
-[Thread-28, 2021-04-14 21:16:35,659, INFO] resizing image pexels-photo-325520.jpeg
-[Thread-28, 2021-04-14 21:16:35,768, INFO] resizing image pexels-photo-317383.jpeg
-[Thread-28, 2021-04-14 21:16:35,915, INFO] resizing image pexels-photo-247932.jpeg
-[Thread-28, 2021-04-14 21:16:36,027, INFO] resizing image pexels-photo-192454.jpeg
-[Thread-28, 2021-04-14 21:16:36,138, INFO] resizing image pexels-photo-134392.jpeg
-[Thread-28, 2021-04-14 21:16:36,234, INFO] resizing image pexels-photo-324658.jpeg
-[Thread-28, 2021-04-14 21:16:36,339, INFO] resizing image pexels-photo-193043.jpeg
-[Thread-28, 2021-04-14 21:16:36,454, INFO] resizing image pexels-photo-135130.jpeg
-[Thread-28, 2021-04-14 21:16:36,527, INFO] resizing image pexels-photo-48603.jpeg
-[Thread-28, 2021-04-14 21:16:36,586, INFO] resizing image pexels-photo-323503.jpeg
-[Thread-28, 2021-04-14 21:16:36,693, INFO] created thumbnails in 2.9810991129998 seconds
-[MainThread, 2021-04-14 21:16:36,693, INFO] END make_thumbnails in 3.0055727590006427 seconds
+[MainThread, 2021-04-14 21:56:15,796, INFO] START make_thumbnails
+[Thread-1, 2021-04-14 21:56:15,796, INFO] Yolo
+[Thread-2, 2021-04-14 21:56:15,799, INFO] Yolo
+[Thread-3, 2021-04-14 21:56:15,799, INFO] Yolo
+[Thread-4, 2021-04-14 21:56:15,800, INFO] Yolo
+[Thread-5, 2021-04-14 21:56:15,800, INFO] Yolo
+[Thread-6, 2021-04-14 21:56:15,800, INFO] Yolo
+[Thread-7, 2021-04-14 21:56:15,801, INFO] Yolo
+[Thread-8, 2021-04-14 21:56:15,804, INFO] Yolo
+[Thread-9, 2021-04-14 21:56:15,805, INFO] Yolo
+[Thread-10, 2021-04-14 21:56:15,806, INFO] Yolo
+[Thread-11, 2021-04-14 21:56:15,807, INFO] Yolo
+[Thread-12, 2021-04-14 21:56:15,807, INFO] Yolo
+[Thread-13, 2021-04-14 21:56:15,809, INFO] Yolo
+[Thread-14, 2021-04-14 21:56:15,809, INFO] Yolo
+[Thread-15, 2021-04-14 21:56:15,811, INFO] Yolo
+[Thread-16, 2021-04-14 21:56:15,811, INFO] Yolo
+[Thread-17, 2021-04-14 21:56:15,812, INFO] Yolo
+[Thread-18, 2021-04-14 21:56:15,813, INFO] Yolo
+[Thread-19, 2021-04-14 21:56:15,813, INFO] Yolo
+[Thread-20, 2021-04-14 21:56:15,814, INFO] Yolo
+[Thread-21, 2021-04-14 21:56:15,815, INFO] Yolo
+[Thread-22, 2021-04-14 21:56:15,816, INFO] Yolo
+[Thread-23, 2021-04-14 21:56:15,817, INFO] Yolo
+[Thread-24, 2021-04-14 21:56:15,817, INFO] Yolo
+[Thread-25, 2021-04-14 21:56:15,819, INFO] Yolo
+[Thread-26, 2021-04-14 21:56:15,820, INFO] Yolo
+[MainThread, 2021-04-14 21:56:15,825, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,827, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,827, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,828, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,829, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,832, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,833, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,834, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,836, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,837, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,841, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:15,842, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:56:16,499, INFO] resizing image pexels-photo-265186.jpeg
+[MainThread, 2021-04-14 21:56:16,510, INFO] resizing image pexels-photo-320007.jpeg
+[MainThread, 2021-04-14 21:56:16,542, INFO] resizing image pexels-photo-323503.jpeg
+[MainThread, 2021-04-14 21:56:16,589, INFO] done resizing image: pexels-photo-265186.jpeg
+[MainThread, 2021-04-14 21:56:16,615, INFO] done resizing image: pexels-photo-320007.jpeg
+[MainThread, 2021-04-14 21:56:16,658, INFO] resizing image pexels-photo-48603.jpeg
+[MainThread, 2021-04-14 21:56:16,678, INFO] done resizing image: pexels-photo-323503.jpeg
+[MainThread, 2021-04-14 21:56:16,682, INFO] resizing image pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 21:56:16,691, INFO] resizing image pexels-photo-167300.jpeg
+[MainThread, 2021-04-14 21:56:16,703, INFO] resizing image pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 21:56:16,707, INFO] resizing image pexels-photo-185934.jpeg
+[MainThread, 2021-04-14 21:56:16,715, INFO] resizing image pexels-photo-324030.jpeg
+[MainThread, 2021-04-14 21:56:16,732, INFO] resizing image pexels-photo-134392.jpeg
+[MainThread, 2021-04-14 21:56:16,734, INFO] resizing image pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 21:56:16,737, INFO] resizing image pexels-photo-247932.jpeg
+[MainThread, 2021-04-14 21:56:16,743, INFO] resizing image pexels-photo-173125.jpeg
+[MainThread, 2021-04-14 21:56:16,743, INFO] done resizing image: pexels-photo-185934.jpeg
+[MainThread, 2021-04-14 21:56:16,746, INFO] done resizing image: pexels-photo-48603.jpeg
+[MainThread, 2021-04-14 21:56:16,748, INFO] resizing image pexels-photo-193038.jpeg
+[MainThread, 2021-04-14 21:56:16,749, INFO] resizing image pexels-photo-325520.jpeg
+[MainThread, 2021-04-14 21:56:16,758, INFO] resizing image pexels-photo-324655.jpeg
+[MainThread, 2021-04-14 21:56:16,762, INFO] resizing image pexels-photo-317156.jpeg
+[MainThread, 2021-04-14 21:56:16,823, INFO] done resizing image: pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 21:56:16,823, INFO] resizing image pexels-photo-135130.jpeg
+[MainThread, 2021-04-14 21:56:16,835, INFO] done resizing image: pexels-photo-173125.jpeg
+[MainThread, 2021-04-14 21:56:16,835, INFO] resizing image pexels-photo-193043.jpeg
+[MainThread, 2021-04-14 21:56:16,866, INFO] done resizing image: pexels-photo-167300.jpeg
+[MainThread, 2021-04-14 21:56:16,866, INFO] resizing image pexels-photo-302899.jpeg
+[MainThread, 2021-04-14 21:56:16,867, INFO] done resizing image: pexels-photo-324030.jpeg
+[MainThread, 2021-04-14 21:56:16,867, INFO] resizing image pexels-photo-167921.jpeg
+[MainThread, 2021-04-14 21:56:16,873, INFO] done resizing image: pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 21:56:16,873, INFO] resizing image pexels-photo-322207.jpeg
+[MainThread, 2021-04-14 21:56:16,906, INFO] done resizing image: pexels-photo-324655.jpeg
+[MainThread, 2021-04-14 21:56:16,906, INFO] resizing image pexels-photo-317383.jpeg
+[MainThread, 2021-04-14 21:56:16,910, INFO] done resizing image: pexels-photo-134392.jpeg
+[MainThread, 2021-04-14 21:56:16,911, INFO] resizing image pexels-photo-192454.jpeg
+[MainThread, 2021-04-14 21:56:16,914, INFO] done resizing image: pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 21:56:16,943, INFO] done resizing image: pexels-photo-325520.jpeg
+[MainThread, 2021-04-14 21:56:16,953, INFO] done resizing image: pexels-photo-135130.jpeg
+[MainThread, 2021-04-14 21:56:16,958, INFO] done resizing image: pexels-photo-247932.jpeg
+[MainThread, 2021-04-14 21:56:16,972, INFO] done resizing image: pexels-photo-317156.jpeg
+[MainThread, 2021-04-14 21:56:16,977, INFO] resizing image pexels-photo-207962.jpeg
+[MainThread, 2021-04-14 21:56:17,006, INFO] done resizing image: pexels-photo-207962.jpeg
+[MainThread, 2021-04-14 21:56:17,014, INFO] done resizing image: pexels-photo-193038.jpeg
+[MainThread, 2021-04-14 21:56:17,022, INFO] done resizing image: pexels-photo-322207.jpeg
+[MainThread, 2021-04-14 21:56:17,027, INFO] done resizing image: pexels-photo-193043.jpeg
+[MainThread, 2021-04-14 21:56:17,029, INFO] done resizing image: pexels-photo-302899.jpeg
+[MainThread, 2021-04-14 21:56:17,044, INFO] done resizing image: pexels-photo-192454.jpeg
+[MainThread, 2021-04-14 21:56:17,044, INFO] done resizing image: pexels-photo-167921.jpeg
+[MainThread, 2021-04-14 21:56:17,065, INFO] done resizing image: pexels-photo-317383.jpeg
+[MainThread, 2021-04-14 21:56:17,122, INFO] resizing image pexels-photo-247917.jpeg
+[MainThread, 2021-04-14 21:56:17,122, INFO] END make_thumbnails in 1.3257133589995647 seconds
+[MainThread, 2021-04-14 21:56:17,122, INFO] Initial size of downloads 5627593. Final size of images: 200269
+[MainThread, 2021-04-14 21:56:17,189, INFO] done resizing image: pexels-photo-247917.jpeg
+[MainThread, 2021-04-14 21:58:33,147, INFO] START make_thumbnails
+[Thread-1, 2021-04-14 21:58:33,148, INFO] Yolo
+[Thread-2, 2021-04-14 21:58:33,149, INFO] Yolo
+[MainThread, 2021-04-14 21:58:33,152, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,152, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,155, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,156, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,157, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,157, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,158, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,159, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,159, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,160, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,161, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:58:33,162, INFO] beginning image resizing
+[Thread-1, 2021-04-14 21:58:33,829, INFO] Yolo
+[MainThread, 2021-04-14 21:58:33,830, INFO] resizing image pexels-photo-48603.jpeg
+[MainThread, 2021-04-14 21:58:33,902, INFO] done resizing image: pexels-photo-48603.jpeg
+[Thread-2, 2021-04-14 21:58:33,906, INFO] Yolo
+[MainThread, 2021-04-14 21:58:33,906, INFO] resizing image pexels-photo-134392.jpeg
+[MainThread, 2021-04-14 21:58:34,023, INFO] done resizing image: pexels-photo-134392.jpeg
+[Thread-1, 2021-04-14 21:58:34,493, INFO] Yolo
+[MainThread, 2021-04-14 21:58:34,494, INFO] resizing image pexels-photo-135130.jpeg
+[MainThread, 2021-04-14 21:58:34,583, INFO] done resizing image: pexels-photo-135130.jpeg
+[Thread-2, 2021-04-14 21:58:34,787, INFO] Yolo
+[MainThread, 2021-04-14 21:58:34,787, INFO] resizing image pexels-photo-167300.jpeg
+[MainThread, 2021-04-14 21:58:34,898, INFO] done resizing image: pexels-photo-167300.jpeg
+[Thread-1, 2021-04-14 21:58:35,222, INFO] Yolo
+[MainThread, 2021-04-14 21:58:35,223, INFO] resizing image pexels-photo-167921.jpeg
+[MainThread, 2021-04-14 21:58:35,626, INFO] done resizing image: pexels-photo-167921.jpeg
+[Thread-2, 2021-04-14 21:58:35,749, INFO] Yolo
+[MainThread, 2021-04-14 21:58:35,749, INFO] resizing image pexels-photo-173125.jpeg
+[MainThread, 2021-04-14 21:58:35,820, INFO] done resizing image: pexels-photo-173125.jpeg
+[Thread-1, 2021-04-14 21:58:35,864, INFO] Yolo
+[MainThread, 2021-04-14 21:58:35,864, INFO] resizing image pexels-photo-185934.jpeg
+[MainThread, 2021-04-14 21:58:35,898, INFO] done resizing image: pexels-photo-185934.jpeg
+[Thread-2, 2021-04-14 21:58:36,810, INFO] Yolo
+[MainThread, 2021-04-14 21:58:36,811, INFO] resizing image pexels-photo-192454.jpeg
+[Thread-1, 2021-04-14 21:58:36,860, INFO] Yolo
+[MainThread, 2021-04-14 21:58:36,860, INFO] resizing image pexels-photo-193038.jpeg
+[MainThread, 2021-04-14 21:58:36,932, INFO] done resizing image: pexels-photo-192454.jpeg
+[MainThread, 2021-04-14 21:58:36,992, INFO] done resizing image: pexels-photo-193038.jpeg
+[Thread-1, 2021-04-14 21:58:37,582, INFO] Yolo
+[MainThread, 2021-04-14 21:58:37,582, INFO] resizing image pexels-photo-207962.jpeg
+[Thread-2, 2021-04-14 21:58:37,598, INFO] Yolo
+[MainThread, 2021-04-14 21:58:37,598, INFO] resizing image pexels-photo-193043.jpeg
+[MainThread, 2021-04-14 21:58:37,618, INFO] done resizing image: pexels-photo-207962.jpeg
+[MainThread, 2021-04-14 21:58:37,733, INFO] done resizing image: pexels-photo-193043.jpeg
+[Thread-2, 2021-04-14 21:58:38,335, INFO] Yolo
+[MainThread, 2021-04-14 21:58:38,335, INFO] resizing image pexels-photo-247932.jpeg
+[MainThread, 2021-04-14 21:58:38,464, INFO] done resizing image: pexels-photo-247932.jpeg
+[Thread-1, 2021-04-14 21:58:38,615, INFO] Yolo
+[MainThread, 2021-04-14 21:58:38,615, INFO] resizing image pexels-photo-247917.jpeg
+[MainThread, 2021-04-14 21:58:38,684, INFO] done resizing image: pexels-photo-247917.jpeg
+[Thread-2, 2021-04-14 21:58:38,973, INFO] Yolo
+[MainThread, 2021-04-14 21:58:38,974, INFO] resizing image pexels-photo-265186.jpeg
+[MainThread, 2021-04-14 21:58:39,052, INFO] done resizing image: pexels-photo-265186.jpeg
+[Thread-1, 2021-04-14 21:58:39,390, INFO] Yolo
+[MainThread, 2021-04-14 21:58:39,390, INFO] resizing image pexels-photo-302899.jpeg
+[MainThread, 2021-04-14 21:58:39,521, INFO] done resizing image: pexels-photo-302899.jpeg
+[Thread-2, 2021-04-14 21:58:39,763, INFO] Yolo
+[MainThread, 2021-04-14 21:58:39,764, INFO] resizing image pexels-photo-317156.jpeg
+[MainThread, 2021-04-14 21:58:39,870, INFO] done resizing image: pexels-photo-317156.jpeg
+[Thread-1, 2021-04-14 21:58:40,369, INFO] Yolo
+[MainThread, 2021-04-14 21:58:40,370, INFO] resizing image pexels-photo-317383.jpeg
+[MainThread, 2021-04-14 21:58:40,513, INFO] done resizing image: pexels-photo-317383.jpeg
+[Thread-2, 2021-04-14 21:58:40,637, INFO] Yolo
+[MainThread, 2021-04-14 21:58:40,638, INFO] resizing image pexels-photo-320007.jpeg
+[MainThread, 2021-04-14 21:58:40,756, INFO] done resizing image: pexels-photo-320007.jpeg
+[Thread-1, 2021-04-14 21:58:41,129, INFO] Yolo
+[MainThread, 2021-04-14 21:58:41,130, INFO] resizing image pexels-photo-322207.jpeg
+[MainThread, 2021-04-14 21:58:41,242, INFO] done resizing image: pexels-photo-322207.jpeg
+[Thread-2, 2021-04-14 21:58:41,328, INFO] Yolo
+[MainThread, 2021-04-14 21:58:41,329, INFO] resizing image pexels-photo-323503.jpeg
+[MainThread, 2021-04-14 21:58:41,438, INFO] done resizing image: pexels-photo-323503.jpeg
+[Thread-1, 2021-04-14 21:58:42,024, INFO] Yolo
+[MainThread, 2021-04-14 21:58:42,025, INFO] resizing image pexels-photo-324030.jpeg
+[Thread-2, 2021-04-14 21:58:42,055, INFO] Yolo
+[MainThread, 2021-04-14 21:58:42,056, INFO] resizing image pexels-photo-324655.jpeg
+[MainThread, 2021-04-14 21:58:42,116, INFO] done resizing image: pexels-photo-324030.jpeg
+[MainThread, 2021-04-14 21:58:42,135, INFO] done resizing image: pexels-photo-324655.jpeg
+[Thread-1, 2021-04-14 21:58:42,721, INFO] Yolo
+[MainThread, 2021-04-14 21:58:42,721, INFO] resizing image pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 21:58:42,837, INFO] done resizing image: pexels-photo-324658.jpeg
+[Thread-2, 2021-04-14 21:58:42,857, INFO] Yolo
+[MainThread, 2021-04-14 21:58:42,858, INFO] resizing image pexels-photo-325520.jpeg
+[MainThread, 2021-04-14 21:58:42,976, INFO] done resizing image: pexels-photo-325520.jpeg
+[MainThread, 2021-04-14 21:58:43,506, INFO] resizing image pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 21:58:43,526, INFO] END make_thumbnails in 10.37903164599993 seconds
+[MainThread, 2021-04-14 21:58:43,527, INFO] resizing image pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 21:58:43,527, INFO] Initial size of downloads 5627593. Final size of images: 192166
+[MainThread, 2021-04-14 21:58:43,590, INFO] done resizing image: pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 21:58:43,634, INFO] done resizing image: pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 21:59:11,967, INFO] START make_thumbnails
+[Thread-1, 2021-04-14 21:59:11,967, INFO] Yolo
+[Thread-2, 2021-04-14 21:59:11,970, INFO] Yolo
+[MainThread, 2021-04-14 21:59:11,973, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,973, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,975, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,975, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,978, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,978, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,979, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,981, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,981, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,981, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,983, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:11,984, INFO] beginning image resizing
+[Thread-2, 2021-04-14 21:59:12,772, INFO] Yolo
+[MainThread, 2021-04-14 21:59:12,773, INFO] resizing image pexels-photo-134392.jpeg
+[MainThread, 2021-04-14 21:59:12,883, INFO] done resizing image: pexels-photo-134392.jpeg
+[Thread-1, 2021-04-14 21:59:13,075, INFO] Yolo
+[MainThread, 2021-04-14 21:59:13,075, INFO] resizing image pexels-photo-48603.jpeg
+[MainThread, 2021-04-14 21:59:13,150, INFO] done resizing image: pexels-photo-48603.jpeg
+[Thread-2, 2021-04-14 21:59:13,534, INFO] Yolo
+[MainThread, 2021-04-14 21:59:13,535, INFO] resizing image pexels-photo-135130.jpeg
+[MainThread, 2021-04-14 21:59:13,625, INFO] done resizing image: pexels-photo-135130.jpeg
+[Thread-1, 2021-04-14 21:59:13,785, INFO] Yolo
+[MainThread, 2021-04-14 21:59:13,786, INFO] resizing image pexels-photo-167300.jpeg
+[MainThread, 2021-04-14 21:59:13,893, INFO] done resizing image: pexels-photo-167300.jpeg
+[Thread-2, 2021-04-14 21:59:14,296, INFO] Yolo
+[MainThread, 2021-04-14 21:59:14,296, INFO] resizing image pexels-photo-167921.jpeg
+[MainThread, 2021-04-14 21:59:14,445, INFO] done resizing image: pexels-photo-167921.jpeg
+[Thread-1, 2021-04-14 21:59:14,722, INFO] Yolo
+[MainThread, 2021-04-14 21:59:14,722, INFO] resizing image pexels-photo-173125.jpeg
+[MainThread, 2021-04-14 21:59:14,788, INFO] done resizing image: pexels-photo-173125.jpeg
+[Thread-2, 2021-04-14 21:59:15,094, INFO] Yolo
+[MainThread, 2021-04-14 21:59:15,094, INFO] resizing image pexels-photo-185934.jpeg
+[MainThread, 2021-04-14 21:59:15,126, INFO] done resizing image: pexels-photo-185934.jpeg
+[Thread-1, 2021-04-14 21:59:15,557, INFO] Yolo
+[MainThread, 2021-04-14 21:59:15,558, INFO] resizing image pexels-photo-192454.jpeg
+[MainThread, 2021-04-14 21:59:15,679, INFO] done resizing image: pexels-photo-192454.jpeg
+[Thread-2, 2021-04-14 21:59:15,850, INFO] Yolo
+[MainThread, 2021-04-14 21:59:15,850, INFO] resizing image pexels-photo-193038.jpeg
+[MainThread, 2021-04-14 21:59:15,981, INFO] done resizing image: pexels-photo-193038.jpeg
+[Thread-1, 2021-04-14 21:59:16,347, INFO] Yolo
+[MainThread, 2021-04-14 21:59:16,347, INFO] resizing image pexels-photo-193043.jpeg
+[MainThread, 2021-04-14 21:59:16,475, INFO] done resizing image: pexels-photo-193043.jpeg
+[Thread-2, 2021-04-14 21:59:16,537, INFO] Yolo
+[MainThread, 2021-04-14 21:59:16,538, INFO] resizing image pexels-photo-207962.jpeg
+[MainThread, 2021-04-14 21:59:16,569, INFO] done resizing image: pexels-photo-207962.jpeg
+[Thread-1, 2021-04-14 21:59:17,072, INFO] Yolo
+[MainThread, 2021-04-14 21:59:17,072, INFO] resizing image pexels-photo-247917.jpeg
+[MainThread, 2021-04-14 21:59:17,146, INFO] done resizing image: pexels-photo-247917.jpeg
+[Thread-2, 2021-04-14 21:59:17,342, INFO] Yolo
+[MainThread, 2021-04-14 21:59:17,343, INFO] resizing image pexels-photo-247932.jpeg
+[MainThread, 2021-04-14 21:59:17,465, INFO] done resizing image: pexels-photo-247932.jpeg
+[Thread-1, 2021-04-14 21:59:17,761, INFO] Yolo
+[MainThread, 2021-04-14 21:59:17,762, INFO] resizing image pexels-photo-265186.jpeg
+[MainThread, 2021-04-14 21:59:17,849, INFO] done resizing image: pexels-photo-265186.jpeg
+[Thread-2, 2021-04-14 21:59:18,399, INFO] Yolo
+[MainThread, 2021-04-14 21:59:18,399, INFO] resizing image pexels-photo-302899.jpeg
+[Thread-1, 2021-04-14 21:59:18,507, INFO] Yolo
+[MainThread, 2021-04-14 21:59:18,507, INFO] resizing image pexels-photo-317156.jpeg
+[MainThread, 2021-04-14 21:59:18,555, INFO] done resizing image: pexels-photo-302899.jpeg
+[MainThread, 2021-04-14 21:59:18,612, INFO] done resizing image: pexels-photo-317156.jpeg
+[Thread-2, 2021-04-14 21:59:19,179, INFO] Yolo
+[MainThread, 2021-04-14 21:59:19,180, INFO] resizing image pexels-photo-317383.jpeg
+[Thread-1, 2021-04-14 21:59:19,295, INFO] Yolo
+[MainThread, 2021-04-14 21:59:19,295, INFO] resizing image pexels-photo-320007.jpeg
+[MainThread, 2021-04-14 21:59:19,330, INFO] done resizing image: pexels-photo-317383.jpeg
+[MainThread, 2021-04-14 21:59:19,367, INFO] done resizing image: pexels-photo-320007.jpeg
+[Thread-1, 2021-04-14 21:59:20,006, INFO] Yolo
+[MainThread, 2021-04-14 21:59:20,006, INFO] resizing image pexels-photo-323503.jpeg
+[MainThread, 2021-04-14 21:59:20,118, INFO] done resizing image: pexels-photo-323503.jpeg
+[Thread-2, 2021-04-14 21:59:20,255, INFO] Yolo
+[MainThread, 2021-04-14 21:59:20,256, INFO] resizing image pexels-photo-322207.jpeg
+[MainThread, 2021-04-14 21:59:20,373, INFO] done resizing image: pexels-photo-322207.jpeg
+[Thread-1, 2021-04-14 21:59:20,755, INFO] Yolo
+[MainThread, 2021-04-14 21:59:20,755, INFO] resizing image pexels-photo-324030.jpeg
+[MainThread, 2021-04-14 21:59:20,844, INFO] done resizing image: pexels-photo-324030.jpeg
+[Thread-2, 2021-04-14 21:59:21,003, INFO] Yolo
+[MainThread, 2021-04-14 21:59:21,003, INFO] resizing image pexels-photo-324655.jpeg
+[MainThread, 2021-04-14 21:59:21,073, INFO] done resizing image: pexels-photo-324655.jpeg
+[Thread-1, 2021-04-14 21:59:21,513, INFO] Yolo
+[MainThread, 2021-04-14 21:59:21,513, INFO] resizing image pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 21:59:21,627, INFO] done resizing image: pexels-photo-324658.jpeg
+[Thread-2, 2021-04-14 21:59:21,731, INFO] Yolo
+[MainThread, 2021-04-14 21:59:21,732, INFO] resizing image pexels-photo-325520.jpeg
+[MainThread, 2021-04-14 21:59:21,862, INFO] done resizing image: pexels-photo-325520.jpeg
+[MainThread, 2021-04-14 21:59:22,247, INFO] resizing image pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 21:59:22,329, INFO] done resizing image: pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 21:59:22,476, INFO] END make_thumbnails in 10.508844235000652 seconds
+[MainThread, 2021-04-14 21:59:22,476, INFO] Initial size of downloads 5627593. Final size of images: 199521
+[MainThread, 2021-04-14 21:59:22,476, INFO] resizing image pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 21:59:22,584, INFO] done resizing image: pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 21:59:30,988, INFO] START make_thumbnails
+[Thread-1, 2021-04-14 21:59:30,989, INFO] Yolo
+[Thread-2, 2021-04-14 21:59:30,991, INFO] Yolo
+[MainThread, 2021-04-14 21:59:30,995, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:30,995, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:30,995, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:30,997, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:30,999, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:30,999, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:31,000, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:31,001, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:31,003, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:31,005, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:31,006, INFO] beginning image resizing
+[MainThread, 2021-04-14 21:59:31,007, INFO] beginning image resizing
+[Thread-1, 2021-04-14 21:59:31,648, INFO] Yolo
+[MainThread, 2021-04-14 21:59:31,648, INFO] resizing image pexels-photo-48603.jpeg
+[Thread-2, 2021-04-14 21:59:31,719, INFO] Yolo
+[MainThread, 2021-04-14 21:59:31,720, INFO] resizing image pexels-photo-134392.jpeg
+[MainThread, 2021-04-14 21:59:31,721, INFO] done resizing image: pexels-photo-48603.jpeg
+[MainThread, 2021-04-14 21:59:31,835, INFO] done resizing image: pexels-photo-134392.jpeg
+[Thread-1, 2021-04-14 21:59:32,316, INFO] Yolo
+[MainThread, 2021-04-14 21:59:32,316, INFO] resizing image pexels-photo-135130.jpeg
+[MainThread, 2021-04-14 21:59:32,403, INFO] done resizing image: pexels-photo-135130.jpeg
+[Thread-2, 2021-04-14 21:59:32,451, INFO] Yolo
+[MainThread, 2021-04-14 21:59:32,452, INFO] resizing image pexels-photo-167300.jpeg
+[MainThread, 2021-04-14 21:59:32,563, INFO] done resizing image: pexels-photo-167300.jpeg
+[Thread-1, 2021-04-14 21:59:33,042, INFO] Yolo
+[MainThread, 2021-04-14 21:59:33,043, INFO] resizing image pexels-photo-167921.jpeg
+[Thread-2, 2021-04-14 21:59:33,185, INFO] Yolo
+[MainThread, 2021-04-14 21:59:33,186, INFO] resizing image pexels-photo-173125.jpeg
+[MainThread, 2021-04-14 21:59:33,206, INFO] done resizing image: pexels-photo-167921.jpeg
+[MainThread, 2021-04-14 21:59:33,255, INFO] done resizing image: pexels-photo-173125.jpeg
+[Thread-1, 2021-04-14 21:59:33,642, INFO] Yolo
+[MainThread, 2021-04-14 21:59:33,642, INFO] resizing image pexels-photo-185934.jpeg
+[MainThread, 2021-04-14 21:59:33,675, INFO] done resizing image: pexels-photo-185934.jpeg
+[Thread-2, 2021-04-14 21:59:34,203, INFO] Yolo
+[MainThread, 2021-04-14 21:59:34,203, INFO] resizing image pexels-photo-192454.jpeg
+[MainThread, 2021-04-14 21:59:34,329, INFO] done resizing image: pexels-photo-192454.jpeg
+[Thread-1, 2021-04-14 21:59:34,607, INFO] Yolo
+[MainThread, 2021-04-14 21:59:34,607, INFO] resizing image pexels-photo-193038.jpeg
+[MainThread, 2021-04-14 21:59:34,732, INFO] done resizing image: pexels-photo-193038.jpeg
+[Thread-2, 2021-04-14 21:59:34,950, INFO] Yolo
+[MainThread, 2021-04-14 21:59:34,950, INFO] resizing image pexels-photo-193043.jpeg
+[MainThread, 2021-04-14 21:59:35,079, INFO] done resizing image: pexels-photo-193043.jpeg
+[Thread-1, 2021-04-14 21:59:35,293, INFO] Yolo
+[MainThread, 2021-04-14 21:59:35,293, INFO] resizing image pexels-photo-207962.jpeg
+[MainThread, 2021-04-14 21:59:35,323, INFO] done resizing image: pexels-photo-207962.jpeg
+[Thread-2, 2021-04-14 21:59:35,658, INFO] Yolo
+[MainThread, 2021-04-14 21:59:35,659, INFO] resizing image pexels-photo-247917.jpeg
+[MainThread, 2021-04-14 21:59:35,736, INFO] done resizing image: pexels-photo-247917.jpeg
+[Thread-2, 2021-04-14 21:59:36,263, INFO] Yolo
+[MainThread, 2021-04-14 21:59:36,263, INFO] resizing image pexels-photo-265186.jpeg
+[MainThread, 2021-04-14 21:59:36,346, INFO] done resizing image: pexels-photo-265186.jpeg
+[Thread-1, 2021-04-14 21:59:36,530, INFO] Yolo
+[MainThread, 2021-04-14 21:59:36,530, INFO] resizing image pexels-photo-247932.jpeg
+[MainThread, 2021-04-14 21:59:36,649, INFO] done resizing image: pexels-photo-247932.jpeg
+[Thread-2, 2021-04-14 21:59:36,956, INFO] Yolo
+[MainThread, 2021-04-14 21:59:36,956, INFO] resizing image pexels-photo-302899.jpeg
+[MainThread, 2021-04-14 21:59:37,087, INFO] done resizing image: pexels-photo-302899.jpeg
+[Thread-1, 2021-04-14 21:59:37,263, INFO] Yolo
+[MainThread, 2021-04-14 21:59:37,263, INFO] resizing image pexels-photo-317156.jpeg
+[MainThread, 2021-04-14 21:59:37,365, INFO] done resizing image: pexels-photo-317156.jpeg
+[Thread-2, 2021-04-14 21:59:37,851, INFO] Yolo
+[MainThread, 2021-04-14 21:59:37,851, INFO] resizing image pexels-photo-317383.jpeg
+[MainThread, 2021-04-14 21:59:37,997, INFO] done resizing image: pexels-photo-317383.jpeg
+[Thread-1, 2021-04-14 21:59:38,301, INFO] Yolo
+[MainThread, 2021-04-14 21:59:38,301, INFO] resizing image pexels-photo-320007.jpeg
+[MainThread, 2021-04-14 21:59:38,374, INFO] done resizing image: pexels-photo-320007.jpeg
+[Thread-2, 2021-04-14 21:59:38,833, INFO] Yolo
+[MainThread, 2021-04-14 21:59:38,833, INFO] resizing image pexels-photo-322207.jpeg
+[MainThread, 2021-04-14 21:59:38,946, INFO] done resizing image: pexels-photo-322207.jpeg
+[Thread-1, 2021-04-14 21:59:39,172, INFO] Yolo
+[MainThread, 2021-04-14 21:59:39,172, INFO] resizing image pexels-photo-323503.jpeg
+[MainThread, 2021-04-14 21:59:39,284, INFO] done resizing image: pexels-photo-323503.jpeg
+[Thread-2, 2021-04-14 21:59:39,845, INFO] Yolo
+[MainThread, 2021-04-14 21:59:39,845, INFO] resizing image pexels-photo-324030.jpeg
+[Thread-1, 2021-04-14 21:59:39,905, INFO] Yolo
+[MainThread, 2021-04-14 21:59:39,905, INFO] resizing image pexels-photo-324655.jpeg
+[MainThread, 2021-04-14 21:59:39,935, INFO] done resizing image: pexels-photo-324030.jpeg
+[MainThread, 2021-04-14 21:59:39,975, INFO] done resizing image: pexels-photo-324655.jpeg
+[Thread-1, 2021-04-14 21:59:40,664, INFO] Yolo
+[MainThread, 2021-04-14 21:59:40,664, INFO] resizing image pexels-photo-325520.jpeg
+[MainThread, 2021-04-14 21:59:40,781, INFO] done resizing image: pexels-photo-325520.jpeg
+[Thread-2, 2021-04-14 21:59:40,965, INFO] Yolo
+[MainThread, 2021-04-14 21:59:40,966, INFO] resizing image pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 21:59:41,081, INFO] done resizing image: pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 21:59:41,425, INFO] resizing image pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 21:59:41,502, INFO] done resizing image: pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 21:59:41,661, INFO] resizing image pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 21:59:41,661, INFO] END make_thumbnails in 10.672582236999006 seconds
+[MainThread, 2021-04-14 21:59:41,662, INFO] Initial size of downloads 5627593. Final size of images: 199521
+[MainThread, 2021-04-14 21:59:41,772, INFO] done resizing image: pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 22:00:09,095, INFO] START make_thumbnails
+[Thread-1, 2021-04-14 22:00:09,096, INFO] Yolo
+[Thread-2, 2021-04-14 22:00:09,098, INFO] Yolo
+[MainThread, 2021-04-14 22:00:09,102, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,102, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,104, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,104, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,105, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,106, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,108, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,109, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,111, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,112, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,114, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:09,115, INFO] beginning image resizing
+[Thread-1, 2021-04-14 22:00:09,736, INFO] Yolo
+[MainThread, 2021-04-14 22:00:09,736, INFO] resizing image pexels-photo-48603.jpeg
+[MainThread, 2021-04-14 22:00:09,806, INFO] done resizing image: pexels-photo-48603.jpeg
+[Thread-2, 2021-04-14 22:00:10,050, INFO] Yolo
+[MainThread, 2021-04-14 22:00:10,050, INFO] resizing image pexels-photo-134392.jpeg
+[MainThread, 2021-04-14 22:00:10,165, INFO] done resizing image: pexels-photo-134392.jpeg
+[Thread-1, 2021-04-14 22:00:10,408, INFO] Yolo
+[MainThread, 2021-04-14 22:00:10,409, INFO] resizing image pexels-photo-135130.jpeg
+[MainThread, 2021-04-14 22:00:10,497, INFO] done resizing image: pexels-photo-135130.jpeg
+[Thread-2, 2021-04-14 22:00:10,826, INFO] Yolo
+[MainThread, 2021-04-14 22:00:10,827, INFO] resizing image pexels-photo-167300.jpeg
+[MainThread, 2021-04-14 22:00:10,940, INFO] done resizing image: pexels-photo-167300.jpeg
+[Thread-1, 2021-04-14 22:00:11,238, INFO] Yolo
+[MainThread, 2021-04-14 22:00:11,239, INFO] resizing image pexels-photo-167921.jpeg
+[MainThread, 2021-04-14 22:00:11,380, INFO] done resizing image: pexels-photo-167921.jpeg
+[Thread-2, 2021-04-14 22:00:11,645, INFO] Yolo
+[MainThread, 2021-04-14 22:00:11,645, INFO] resizing image pexels-photo-173125.jpeg
+[MainThread, 2021-04-14 22:00:11,713, INFO] done resizing image: pexels-photo-173125.jpeg
+[Thread-1, 2021-04-14 22:00:11,986, INFO] Yolo
+[MainThread, 2021-04-14 22:00:11,986, INFO] resizing image pexels-photo-185934.jpeg
+[MainThread, 2021-04-14 22:00:12,020, INFO] done resizing image: pexels-photo-185934.jpeg
+[Thread-1, 2021-04-14 22:00:12,710, INFO] Yolo
+[MainThread, 2021-04-14 22:00:12,711, INFO] resizing image pexels-photo-193038.jpeg
+[Thread-2, 2021-04-14 22:00:12,783, INFO] Yolo
+[MainThread, 2021-04-14 22:00:12,783, INFO] resizing image pexels-photo-192454.jpeg
+[MainThread, 2021-04-14 22:00:12,844, INFO] done resizing image: pexels-photo-193038.jpeg
+[MainThread, 2021-04-14 22:00:12,909, INFO] done resizing image: pexels-photo-192454.jpeg
+[Thread-2, 2021-04-14 22:00:13,449, INFO] Yolo
+[MainThread, 2021-04-14 22:00:13,449, INFO] resizing image pexels-photo-207962.jpeg
+[MainThread, 2021-04-14 22:00:13,481, INFO] done resizing image: pexels-photo-207962.jpeg
+[Thread-1, 2021-04-14 22:00:13,527, INFO] Yolo
+[MainThread, 2021-04-14 22:00:13,527, INFO] resizing image pexels-photo-193043.jpeg
+[MainThread, 2021-04-14 22:00:13,659, INFO] done resizing image: pexels-photo-193043.jpeg
+[Thread-2, 2021-04-14 22:00:14,292, INFO] Yolo
+[MainThread, 2021-04-14 22:00:14,293, INFO] resizing image pexels-photo-247917.jpeg
+[Thread-1, 2021-04-14 22:00:14,303, INFO] Yolo
+[MainThread, 2021-04-14 22:00:14,304, INFO] resizing image pexels-photo-247932.jpeg
+[MainThread, 2021-04-14 22:00:14,370, INFO] done resizing image: pexels-photo-247917.jpeg
+[MainThread, 2021-04-14 22:00:14,425, INFO] done resizing image: pexels-photo-247932.jpeg
+[Thread-2, 2021-04-14 22:00:14,933, INFO] Yolo
+[MainThread, 2021-04-14 22:00:14,933, INFO] resizing image pexels-photo-265186.jpeg
+[MainThread, 2021-04-14 22:00:15,015, INFO] done resizing image: pexels-photo-265186.jpeg
+[Thread-1, 2021-04-14 22:00:15,604, INFO] Yolo
+[MainThread, 2021-04-14 22:00:15,604, INFO] resizing image pexels-photo-302899.jpeg
+[Thread-2, 2021-04-14 22:00:15,702, INFO] Yolo
+[MainThread, 2021-04-14 22:00:15,702, INFO] resizing image pexels-photo-317156.jpeg
+[MainThread, 2021-04-14 22:00:15,761, INFO] done resizing image: pexels-photo-302899.jpeg
+[MainThread, 2021-04-14 22:00:15,821, INFO] done resizing image: pexels-photo-317156.jpeg
+[Thread-2, 2021-04-14 22:00:16,355, INFO] Yolo
+[MainThread, 2021-04-14 22:00:16,356, INFO] resizing image pexels-photo-320007.jpeg
+[MainThread, 2021-04-14 22:00:16,431, INFO] done resizing image: pexels-photo-320007.jpeg
+[Thread-1, 2021-04-14 22:00:16,468, INFO] Yolo
+[MainThread, 2021-04-14 22:00:16,469, INFO] resizing image pexels-photo-317383.jpeg
+[MainThread, 2021-04-14 22:00:16,621, INFO] done resizing image: pexels-photo-317383.jpeg
+[Thread-2, 2021-04-14 22:00:17,192, INFO] Yolo
+[MainThread, 2021-04-14 22:00:17,192, INFO] resizing image pexels-photo-322207.jpeg
+[Thread-1, 2021-04-14 22:00:17,241, INFO] Yolo
+[MainThread, 2021-04-14 22:00:17,241, INFO] resizing image pexels-photo-323503.jpeg
+[MainThread, 2021-04-14 22:00:17,303, INFO] done resizing image: pexels-photo-322207.jpeg
+[MainThread, 2021-04-14 22:00:17,353, INFO] done resizing image: pexels-photo-323503.jpeg
+[Thread-2, 2021-04-14 22:00:17,886, INFO] Yolo
+[MainThread, 2021-04-14 22:00:17,886, INFO] resizing image pexels-photo-324030.jpeg
+[Thread-1, 2021-04-14 22:00:17,957, INFO] Yolo
+[MainThread, 2021-04-14 22:00:17,957, INFO] resizing image pexels-photo-324655.jpeg
+[MainThread, 2021-04-14 22:00:17,982, INFO] done resizing image: pexels-photo-324030.jpeg
+[MainThread, 2021-04-14 22:00:18,030, INFO] done resizing image: pexels-photo-324655.jpeg
+[Thread-1, 2021-04-14 22:00:18,732, INFO] Yolo
+[MainThread, 2021-04-14 22:00:18,733, INFO] resizing image pexels-photo-325520.jpeg
+[Thread-2, 2021-04-14 22:00:18,786, INFO] Yolo
+[MainThread, 2021-04-14 22:00:18,787, INFO] resizing image pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 22:00:18,854, INFO] done resizing image: pexels-photo-325520.jpeg
+[MainThread, 2021-04-14 22:00:18,905, INFO] done resizing image: pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 22:00:19,397, INFO] resizing image pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 22:00:19,478, INFO] done resizing image: pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 22:00:19,885, INFO] resizing image pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 22:00:19,885, INFO] END make_thumbnails in 10.789375143000143 seconds
+[MainThread, 2021-04-14 22:00:19,885, INFO] Initial size of downloads 5627593. Final size of images: 199521
+[MainThread, 2021-04-14 22:00:19,994, INFO] done resizing image: pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 22:00:27,873, INFO] START make_thumbnails
+[Thread-1, 2021-04-14 22:00:27,873, INFO] Yolo
+[Thread-2, 2021-04-14 22:00:27,875, INFO] Yolo
+[MainThread, 2021-04-14 22:00:27,879, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,880, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,880, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,881, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,885, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,886, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,887, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,888, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,889, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,890, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,891, INFO] beginning image resizing
+[MainThread, 2021-04-14 22:00:27,892, INFO] beginning image resizing
+[Thread-1, 2021-04-14 22:00:28,789, INFO] Yolo
+[MainThread, 2021-04-14 22:00:28,790, INFO] resizing image pexels-photo-48603.jpeg
+[Thread-2, 2021-04-14 22:00:28,804, INFO] Yolo
+[MainThread, 2021-04-14 22:00:28,804, INFO] resizing image pexels-photo-134392.jpeg
+[MainThread, 2021-04-14 22:00:28,858, INFO] done resizing image: pexels-photo-48603.jpeg
+[MainThread, 2021-04-14 22:00:28,921, INFO] done resizing image: pexels-photo-134392.jpeg
+[Thread-2, 2021-04-14 22:00:29,599, INFO] Yolo
+[MainThread, 2021-04-14 22:00:29,599, INFO] resizing image pexels-photo-167300.jpeg
+[Thread-1, 2021-04-14 22:00:29,634, INFO] Yolo
+[MainThread, 2021-04-14 22:00:29,635, INFO] resizing image pexels-photo-135130.jpeg
+[MainThread, 2021-04-14 22:00:29,716, INFO] done resizing image: pexels-photo-167300.jpeg
+[MainThread, 2021-04-14 22:00:29,724, INFO] done resizing image: pexels-photo-135130.jpeg
+[Thread-2, 2021-04-14 22:00:30,359, INFO] Yolo
+[MainThread, 2021-04-14 22:00:30,360, INFO] resizing image pexels-photo-167921.jpeg
+[MainThread, 2021-04-14 22:00:30,503, INFO] done resizing image: pexels-photo-167921.jpeg
+[Thread-1, 2021-04-14 22:00:30,565, INFO] Yolo
+[MainThread, 2021-04-14 22:00:30,566, INFO] resizing image pexels-photo-173125.jpeg
+[MainThread, 2021-04-14 22:00:30,633, INFO] done resizing image: pexels-photo-173125.jpeg
+[Thread-2, 2021-04-14 22:00:30,997, INFO] Yolo
+[MainThread, 2021-04-14 22:00:30,997, INFO] resizing image pexels-photo-185934.jpeg
+[MainThread, 2021-04-14 22:00:31,031, INFO] done resizing image: pexels-photo-185934.jpeg
+[Thread-1, 2021-04-14 22:00:31,503, INFO] Yolo
+[MainThread, 2021-04-14 22:00:31,503, INFO] resizing image pexels-photo-192454.jpeg
+[MainThread, 2021-04-14 22:00:31,635, INFO] done resizing image: pexels-photo-192454.jpeg
+[Thread-2, 2021-04-14 22:00:31,775, INFO] Yolo
+[MainThread, 2021-04-14 22:00:31,775, INFO] resizing image pexels-photo-193038.jpeg
+[MainThread, 2021-04-14 22:00:31,904, INFO] done resizing image: pexels-photo-193038.jpeg
+[Thread-1, 2021-04-14 22:00:32,244, INFO] Yolo
+[MainThread, 2021-04-14 22:00:32,244, INFO] resizing image pexels-photo-193043.jpeg
+[MainThread, 2021-04-14 22:00:32,374, INFO] done resizing image: pexels-photo-193043.jpeg
+[Thread-2, 2021-04-14 22:00:32,460, INFO] Yolo
+[MainThread, 2021-04-14 22:00:32,460, INFO] resizing image pexels-photo-207962.jpeg
+[MainThread, 2021-04-14 22:00:32,493, INFO] done resizing image: pexels-photo-207962.jpeg
+[Thread-1, 2021-04-14 22:00:33,171, INFO] Yolo
+[MainThread, 2021-04-14 22:00:33,171, INFO] resizing image pexels-photo-247917.jpeg
+[MainThread, 2021-04-14 22:00:33,251, INFO] done resizing image: pexels-photo-247917.jpeg
+[Thread-2, 2021-04-14 22:00:33,805, INFO] Yolo
+[MainThread, 2021-04-14 22:00:33,805, INFO] resizing image pexels-photo-247932.jpeg
+[MainThread, 2021-04-14 22:00:33,926, INFO] done resizing image: pexels-photo-247932.jpeg
+[Thread-1, 2021-04-14 22:00:33,930, INFO] Yolo
+[MainThread, 2021-04-14 22:00:33,930, INFO] resizing image pexels-photo-265186.jpeg
+[MainThread, 2021-04-14 22:00:34,010, INFO] done resizing image: pexels-photo-265186.jpeg
+[Thread-2, 2021-04-14 22:00:34,754, INFO] Yolo
+[MainThread, 2021-04-14 22:00:34,754, INFO] resizing image pexels-photo-302899.jpeg
+[Thread-1, 2021-04-14 22:00:34,823, INFO] Yolo
+[MainThread, 2021-04-14 22:00:34,823, INFO] resizing image pexels-photo-317156.jpeg
+[MainThread, 2021-04-14 22:00:34,915, INFO] done resizing image: pexels-photo-302899.jpeg
+[MainThread, 2021-04-14 22:00:34,938, INFO] done resizing image: pexels-photo-317156.jpeg
+[Thread-1, 2021-04-14 22:00:35,523, INFO] Yolo
+[MainThread, 2021-04-14 22:00:35,523, INFO] resizing image pexels-photo-320007.jpeg
+[MainThread, 2021-04-14 22:00:35,599, INFO] done resizing image: pexels-photo-320007.jpeg
+[Thread-2, 2021-04-14 22:00:35,653, INFO] Yolo
+[MainThread, 2021-04-14 22:00:35,654, INFO] resizing image pexels-photo-317383.jpeg
+[MainThread, 2021-04-14 22:00:35,798, INFO] done resizing image: pexels-photo-317383.jpeg
+[Thread-1, 2021-04-14 22:00:36,501, INFO] Yolo
+[MainThread, 2021-04-14 22:00:36,501, INFO] resizing image pexels-photo-322207.jpeg
+[Thread-2, 2021-04-14 22:00:36,550, INFO] Yolo
+[MainThread, 2021-04-14 22:00:36,550, INFO] resizing image pexels-photo-323503.jpeg
+[MainThread, 2021-04-14 22:00:36,621, INFO] done resizing image: pexels-photo-322207.jpeg
+[MainThread, 2021-04-14 22:00:36,664, INFO] done resizing image: pexels-photo-323503.jpeg
+[Thread-1, 2021-04-14 22:00:37,272, INFO] Yolo
+[MainThread, 2021-04-14 22:00:37,273, INFO] resizing image pexels-photo-324030.jpeg
+[Thread-2, 2021-04-14 22:00:37,322, INFO] Yolo
+[MainThread, 2021-04-14 22:00:37,322, INFO] resizing image pexels-photo-324655.jpeg
+[MainThread, 2021-04-14 22:00:37,379, INFO] done resizing image: pexels-photo-324030.jpeg
+[MainThread, 2021-04-14 22:00:37,400, INFO] done resizing image: pexels-photo-324655.jpeg
+[Thread-2, 2021-04-14 22:00:38,042, INFO] Yolo
+[MainThread, 2021-04-14 22:00:38,042, INFO] resizing image pexels-photo-325520.jpeg
+[Thread-1, 2021-04-14 22:00:38,122, INFO] Yolo
+[MainThread, 2021-04-14 22:00:38,123, INFO] resizing image pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 22:00:38,164, INFO] done resizing image: pexels-photo-325520.jpeg
+[MainThread, 2021-04-14 22:00:38,234, INFO] done resizing image: pexels-photo-324658.jpeg
+[MainThread, 2021-04-14 22:00:38,833, INFO] resizing image pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 22:00:38,918, INFO] done resizing image: pexels-photo-333529.jpeg
+[MainThread, 2021-04-14 22:00:39,175, INFO] resizing image pexels-photo-341520.jpeg
+[MainThread, 2021-04-14 22:00:39,175, INFO] END make_thumbnails in 11.302499568000712 seconds
+[MainThread, 2021-04-14 22:00:39,175, INFO] Initial size of downloads 5627593. Final size of images: 199521
+[MainThread, 2021-04-14 22:00:39,281, INFO] done resizing image: pexels-photo-341520.jpeg
