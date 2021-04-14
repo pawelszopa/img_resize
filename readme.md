@@ -12,3 +12,5 @@ Queue - trzymamy dane w kolejce i thread moze wziac z konca kolejki
     - get() - pobiera z poczatku 
     - task_done() - oznacza ze dany task zostal zakonczony lub przetworzony
     - join() - blokuje kolejke 
+
+poison pill zatrowamy 
